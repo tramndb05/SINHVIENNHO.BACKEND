@@ -1,0 +1,6 @@
+@SinhVienNho.Api_HostAddress = http://localhost:5148
+
+GET {{SinhVienNho.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
